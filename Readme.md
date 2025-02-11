@@ -1,4 +1,6 @@
 # SQL Learning Plan  
+<a href="https://raw.githubusercontent.com/SharwanKunwar/SQL/main/SQL/SQL%20pdf.pdf" download>Download SQL PDF</a>
+
 
 ## **Introduction to SQL**  
 - Understand what SQL is and why it's used.  
@@ -42,6 +44,11 @@
 - Explore views, stored procedures, and functions.  
 - Practice SQL queries on sample datasets (e.g., free datasets on Kaggle).  
 
-<a href="https://raw.githubusercontent.com/SharwanKunwar/SQL/main/SQL/SQL%20pdf.pdf" download>Download PDF</a>
+<br><br>
+
+---
+
+##
+
 
 
