@@ -42,4 +42,6 @@
 - Explore views, stored procedures, and functions.  
 - Practice SQL queries on sample datasets (e.g., free datasets on Kaggle).  
 
-<iframe src="https://raw.githubusercontent.com/your-username/your-repo/main/your-file.pdf" width="100%" height="600px"></iframe>
+<a href="https://raw.githubusercontent.com/SharwanKunwar/SQL/main/SQL/SQL%20pdf.pdf" download>Download PDF</a>
+
+
